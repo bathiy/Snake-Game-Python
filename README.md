@@ -26,4 +26,4 @@ This is a classic Snake Game implemented using Python's `turtle` graphics module
 1. Make sure you have Python installed (preferably 3.6+).
 2. Clone this repository or download the files.
 3. Run
-   python main.py
+`python main.py`
