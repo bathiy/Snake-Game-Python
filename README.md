@@ -27,3 +27,6 @@ This is a classic Snake Game implemented using Python's `turtle` graphics module
 2. Clone this repository or download the files.
 3. Run
 `python main.py`
+
+<img width="737" height="793" alt="image" src="https://github.com/user-attachments/assets/cba57ef0-eda2-488c-a72d-3bbb1c51d121" />
+
